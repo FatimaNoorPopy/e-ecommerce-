@@ -1,0 +1,62 @@
+
+.section1{
+    background-image: radial-gradient(circle at 90% 41%, rgba(19, 16, 16, 0.04) 0%, rgba(251, 251, 251,0.04) 50%,rgba(229, 229, 229,0.04) 50%, rgba(14, 13, 13, 0.04) 50%),radial-gradient(circle at 100% 97%, rgba(36, 36, 36,0.04) 100%, rgba(36, 36, 36,0.04) 50%,rgba(46, 46, 46,0.04) 50%, rgba(46, 46, 46,0.04) 100%),radial-gradient(circle at 86% 7%, rgba(40, 40, 40,0.04) 0%, rgba(40, 40, 40,0.04) 50%,rgba(200, 200, 200,0.04) 50%, rgba(200, 200, 200,0.04) 100%),radial-gradient(circle at 15% 16%, rgba(99, 99, 99,0.04) 0%, rgba(99, 99, 99,0.04) 50%,rgba(45, 45, 45,0.04) 50%, rgba(45, 45, 45,0.04) 100%),radial-gradient(circle at 75% 99%, rgba(243, 243, 243,0.04) 0%, rgba(243, 243, 243,0.04) 50%,rgba(37, 37, 37,0.04) 50%, rgba(37, 37, 37,0.04) 100%),linear-gradient(246deg, rgb(78, 168, 241),rgb(245, 73, 245));
+    text-align: center;
+    padding:100px;
+    color:white;
+}
+h1{
+    text-transform: uppercase;
+}
+.section2{
+    padding-top:50px;
+    padding-bottom: 30px;
+    border-bottom: 0.5px solid  rgb(211, 206, 206);
+}
+h5{
+    font-weight:bold;
+}
+.fa-camera-retro{
+    background-color:blue;
+    padding:10px;
+    margin-right: 10px;
+    color:white;
+    border-radius: 50px;
+
+}
+.fa-comment-dots{
+    background-color:red;
+    padding:10px;
+    margin-right: 10px;
+    color:white;
+    border-radius: 50px;
+}
+.fa-truck{
+    background-color:green;
+    padding:10px;
+    margin-right: 10px;
+    color:white;
+    border-radius: 50px;  
+}
+.d-flex {
+    margin-top:20px;
+}
+.card-text{
+    font-weight:bold;
+    padding-top: 10px;
+    text-align: center;
+}
+
+.card-img-top{
+    padding-top:20px;
+    padding-right: 10px;
+}
+.t1{
+    border: 1px solid rgb(211, 206, 206);
+    box-shadow: 5px 5px 10px lightgray;
+}
+.t1:hover{
+    transform: scale(1.1);
+    transition: transform 1s;
+}
+
